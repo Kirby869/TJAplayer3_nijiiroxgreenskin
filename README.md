@@ -1,2 +1,1 @@
-# TJAplayer3_nijiiroxgreenskin
-TJAplayer3用のニジイロ×グリーンスキンです。
+＃TJAplayer3_nijiiroxgreenskinは、配布終了しました。
